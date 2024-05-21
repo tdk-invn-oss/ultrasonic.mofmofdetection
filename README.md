@@ -17,7 +17,7 @@ CH201-00ABR is only IC chip. Operating range from 20 cm to 5m. you have to mount
 
 - [1 Directory](#1-directory)
 - [2 How to run Mof-Mof program (Basic)](#2-how-to-run-mof-mof-program-basic)
-  - [2.1  Hardware Connection](#21--hardware-connection)
+  - [2.1 Hardware Connection](#21--hardware-connection)
   - [2.2 Prepare a Horn](#22-prepare-a-horn)
   - [2.3 Setup Raspberry Pi Pico](#23-setup-raspberry-pi-pico)
   - [2.4 Measure softness](#24-measure-softness)
@@ -51,9 +51,9 @@ GND | GND
 
 ## 2.2 Prepare a Horn (only needed CH101-00ABR for Mof-Mof)
 
-A horn can be made by a 3D printer using the .STEP file below.  
-[hardware/AH-21029-045045-01_712_v1.1.STEP](hardware/AH-21029-045045-01_712_v1.1.STEP)
-Please convert to .stl from .STEP by any 3d-CAD.
+A horn can be made by a 3D printer using the following .STEP file:  
+[hardware/AH-12026-045045-A1_931_v1.0.STEP](hardware/AH-12026-045045-A1_931_v1.0.STEP)  
+Please convert to .stl from .STEP by using any 3d-CAD.
 
 Attach the horn to CH101-00ABR perfectly after reflow.  
 It is better to harden with a small amount of epoxy resin.  
